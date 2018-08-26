@@ -1,0 +1,29 @@
+…or create a new repository on the command line
+echo "# z0" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/z012345/z0.git
+git push -u origin master
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/z012345/z0.git
+git push -u origin master
+
+mkdir hello
+cd hello 
+touch hello.html
+ git init
+git status
+git commit
+git add hello.htm 
+git commit -m "Added standard HTML page tags"
+git add .
+git log
+git tag v1
+git tag v1
+git tag
+git checkout master
+git remote add origin https://github.com/z012345/hello.git
+ git push -u origin master
+
