@@ -25,5 +25,5 @@ git tag v1
 git tag
 git checkout master
 git remote add origin https://github.com/z012345/hello.git
- git push -u origin master
-
+git push -u origin master
+git remote -v
