@@ -27,3 +27,9 @@ git checkout master
 git remote add origin https://github.com/z012345/hello.git
 git push -u origin master
 git remote -v
+
+Git и Github. Простые рецепты
+https://habr.com/post/273897/
+
+Git How To — это интерактивный тур
+https://githowto.com/ru
