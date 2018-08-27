@@ -33,3 +33,17 @@ https://habr.com/post/273897/
 
 Git How To — это интерактивный тур
 https://githowto.com/ru
+///////////////////////////////////////////*******////
+git config --global user.name "z0" 
+git config --global user.email "litvinov.z379@gmail.com" 
+[z0@no:git/hello]$ git config --list                                            (08-26 15:38)
+user.name=z0
+user.email=litvinov.z379@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/z012345/hello.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
