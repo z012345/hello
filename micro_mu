@@ -5,6 +5,8 @@ setfont ter-v16n
 ls /usr/share/kbd/consolefonts|less  
 sudo loadkeys ru 
 
+https://git-scm.com/book/ru/v2
+
 Smooth Jazz CD101.9 New York
 http://streaming316.radionomy.com:80/SmoothJazzCd1019NewYork
 
