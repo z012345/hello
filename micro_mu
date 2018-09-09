@@ -1,4 +1,9 @@
 ///////////////////////////////////////////////////////////
+setxkbmap us,ru -option grp:ctrl_shift_toggle 
+yaourt --stats 
+setfont ter-v16n
+ls /usr/share/kbd/consolefonts|less  
+sudo loadkeys ru 
 
 Smooth Jazz CD101.9 New York
 http://streaming316.radionomy.com:80/SmoothJazzCd1019NewYork
